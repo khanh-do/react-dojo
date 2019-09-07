@@ -1,0 +1,9 @@
+.square {
+    background-color: red;
+    display: inline-block;
+    width: 33.33%;
+    padding-bottom: 33.33%;
+}
+.square h1 {
+    display: inline-block;
+}
