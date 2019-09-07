@@ -1,8 +1,8 @@
 This project is built with create-react-app. The project structure is kept intact.
 The starter files within /src are removed and replaced with a new index.js file for this exercise (using React, ReactDOM, JSX).
 
-Bootstrap CDN link was added to <head>
-This project is an implementation of React Basics module up to Composable Squares. Uncomment code segments to run.
+Bootstrap CDN link was added to the head element.  
+This project is an implementation of React Basics module up to Composable Squares. Uncomment select code segments to run.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

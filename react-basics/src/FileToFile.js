@@ -1,6 +1,6 @@
 import React from 'react';
 
-const FileToFile = () => {                                                            // ES6 syntax for component
+const FileToFile = () => {                                                          // ES6 syntax for component
     return (
         <div>
             <h1>Hello Dojo</h1>
@@ -9,4 +9,4 @@ const FileToFile = () => {                                                      
     );
 }
 
-export default FileToFile;          // make this component available to other files
+export default FileToFile;                                                          // makes this component available to other files
