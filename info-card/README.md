@@ -2,13 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Details
 ![wireframe](./public/images/wireframe.png)
+
 Tasks
-*Build a component named InfoCard in /src directory
-*Have the component take in three props
-    *title
-    *description
-    *imagePath
-These props provide data to the three main parts of the InfoCard component
+Build a component named InfoCard in /src directory
+Have the component take in three props
+    title
+    description
+    imagePath
+These props proved data to the three main parts of the InfoCard component
 
 ## Available Scripts
 
