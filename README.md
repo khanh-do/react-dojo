@@ -1,0 +1,2 @@
+# react-dojo
+This repository contains various implementations using React.js, following the Coding Dojo learning platform. These applications have varying complexity levels, starting with the basic application, test-project, which was used to verify that our React installation was successful.
