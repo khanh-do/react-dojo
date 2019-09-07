@@ -5,10 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Tasks<br>
 Build a component named InfoCard in /src directory<br>
-Have the component take in three props<br>
-    <pre>title</pre><br>
-    <pre>description</pre><br>
-    <pre>imagePath</pre><br>
+Have the component take in three props: title, description and imagePath<br>
 These props proved data to the three main parts of the InfoCard component.
 
 ## Available Scripts
