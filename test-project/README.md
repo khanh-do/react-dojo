@@ -14,3 +14,7 @@ npm init -y
 npm install --save react react-dom
 
 Let's now load React/ReactDOM into an HTML file (see index.html) and verify that our installation is successful.
+
+## Project Details
+Then get the following to show up in the browser using React's createElementand ReactDOM's render method:
+![test-project-wireframe](./test-project-wireframe.png)
