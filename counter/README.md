@@ -1,13 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Details
-![wireframe](./public/images/wireframe.png)
-
-Tasks<br>
-Build a component named InfoCard in /src directory.<br>
-Have the component take in three props: title, description and imagePath.<br>
-These props proved data to the three main parts of the InfoCard component.
-
 ## Available Scripts
 
 In the project directory, you can run:
