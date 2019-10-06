@@ -2,7 +2,7 @@
 
 This is a simple React application utilizing event handling and a stateful component.
 
-The component takes in one prop called name, like this &lt;Counter name="Howard"&lt;, which is used to display a message with the name.<br> 
+The component takes in one prop called name, like this &lt;Counter name="Howard"&gt;, which is used to display a message with the name.<br> 
 A button will keep track of how many times it has been clicked. Every time the button is clicked the count should increment by one.<br>
 
 ![wireframe](./public/images/counter_wireframe.png)<br>
