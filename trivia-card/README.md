@@ -1,3 +1,11 @@
+# Trivia Card
+
+This is a simple React application utilizing event handling and a stateful component.
+
+This application will render a card containing a trivia question. When the user clicks on the card, the UI will reveal a hint to the answer. Further clicks toggle between the question and the hint. The component takes in the props called title, question, hint and imgPath.
+
+![wireframe](./public/images/trivia_card_wireframe.png)<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
